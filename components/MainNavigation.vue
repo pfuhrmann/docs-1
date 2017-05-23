@@ -127,6 +127,7 @@
               { href: '/components/breadcrumbs', title: 'Breadcrumbs' },
               { href: '/components/bottom-navigation', title: 'Bottom navigation' },
               { href: '/components/buttons', title: 'Buttons' },
+              { href: '/components/floating-action-buttons', title: 'Buttons: Floating Action Button' },
               { href: '/components/cards', title: 'Cards' },
               { href: '/components/carousels', title: 'Carousel' },
               { href: '/components/chips', title: 'Chips' },

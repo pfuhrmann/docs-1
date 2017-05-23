@@ -36,6 +36,7 @@ export function createRouter () {
         route('/components/breadcrumbs', 'Breadcrumbs'),
         route('/components/bottom-navigation', 'BottomNavigation'),
         route('/components/buttons', 'Buttons'),
+        route('/components/floating-action-buttons', 'FAB'),
         route('/components/cards', 'Cards'),
         route('/components/carousels', 'Carousel'),
         route('/components/chips', 'Chips'),

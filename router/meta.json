@@ -107,6 +107,12 @@
     "description": "Button component for Vuetify Framework.",
     "keywords": "vuetify, buttons, components"
   },
+  "/components/floating-action-buttons": {
+    "h1": "Floating Action Buttons",
+    "title": "Floating Action Button Component",
+    "description": "Floating Action Button  component for Vuetify Framework.",
+    "keywords": "vuetify, buttons, components, floating, action"
+  },
   "/components/carousels": {
     "h1": "Carousels",
     "title": "Carousels Component",
